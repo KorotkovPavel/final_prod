@@ -22,6 +22,10 @@
 
 
 Шаги по запуску тестов: 
+
 1.Установить requirements (Python3, библиотеки: PyTest , PyTest - Selenium; PageObject, Smart Page Object): pip3 install -r requirements.txt 
+
 2.Скачать драйвер для вашей версии браузера 
+
 3.Запустить тесты: python -m pytest -v —driver Chrome —driver-path
+
